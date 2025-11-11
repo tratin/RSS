@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Prueba de RSS</title>
-    <link>https://github.com/</link>
+    <link>https://tratin.es/</link>
     <description>Este es un feed RSS mínimo para una tarea de clase.</description>
     <item>
       <title>Esto es una noticia</title>
