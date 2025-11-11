@@ -6,7 +6,7 @@
     <description>Este es un feed RSS mínimo para una tarea de clase.</description>
     <item>
       <title>Esto es una noticia</title>
-      <link>https://github.com</link>
+      <link>https://tratin.es</link>
       <description>Tarea numero 1 de rss</description>
     </item>
   </channel>
