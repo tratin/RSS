@@ -9,5 +9,10 @@
       <link>https://tratin.es</link>
       <description>Tarea numero 1 de rss</description>
     </item>
+    <item>
+      <title>Esta es otra noticia</title>
+      <link>https://home.tratin.es</link>
+      <description>Nextcloud mio</description>
+    </item>
   </channel>
 </rss>
